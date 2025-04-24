@@ -1,0 +1,2 @@
+# coastal_states.txt
+Washington,Oregon,California,Alaska,Hawaii,Maine,New Hampshire,Massachusetts,Rhode Island,Connecticut,New York,New Jersey,Delaware,Maryland,Virginia,North Carolina,South Carolina,Georgia,Florida,Alabama,Mississippi,Louisiana,Texas

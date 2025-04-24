@@ -1,0 +1,15 @@
+# adjacent_states.txt
+Alabama,Florida,Georgia,Mississippi,Tennessee
+Arizona,California,Nevada,Utah,Colorado,New Mexico
+Arkansas,Missouri,Tennessee,Mississippi,Louisiana,Texas,Oklahoma
+California,Oregon,Nevada,Arizona
+Florida,Alabama,Georgia
+Georgia,Florida,Alabama,Tennessee,North Carolina,South Carolina
+Kentucky,Illinois,Indiana,Ohio,West Virginia,Virginia,Tennessee,Missouri
+Louisiana,Texas,Arkansas,Mississippi
+Mississippi,Louisiana,Arkansas,Tennessee,Alabama
+Nevada,Oregon,Idaho,Utah,Arizona,California
+New Mexico,Arizona,Utah,Colorado,Oklahoma,Texas
+North Carolina,Virginia,Tennessee,Georgia,South Carolina
+Oregon,Washington,Idaho,Nevada,California
+Texas,New Mexico,Oklahoma,Arkansas,Louisiana
